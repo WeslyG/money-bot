@@ -1,0 +1,9 @@
+vevs
+__pycache__
+*.pyc
+etc
+backup
+exa.py
+old
+qqq.txt
+.env
